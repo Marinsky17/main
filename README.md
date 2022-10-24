@@ -1,5 +1,5 @@
-# 💫 About Me:
-A tech enthusiast with an ever increasing thirst for knowledge. I enjoy versatility and firmly hold on to it.<br>I bring expertise on the table in anything that is Cloud, DevOps and SRE, but also enjoy IoT & Cyber Security.<br><br><br>"Specialisation is for insects" — Robert Heinlein <br>....<br>
+# About Me:
+A tech enthusiast with an ever increasing thirst for knowledge. I enjoy versatility and firmly hold on to it.<br>I bring expertise on the table in anything that is Cloud, DevOps and SRE, but also enjoy IoT & Cyber Security.<br><br><br>"Specialisation is for insects" — Robert Heinlein <br><br>
 
 
 ## 🌐 Socials:
